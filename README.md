@@ -1,0 +1,2 @@
+# OpenCVPillowPyTesseract-TestProject
+OpenCVPillowPyTesseract_TestProject
